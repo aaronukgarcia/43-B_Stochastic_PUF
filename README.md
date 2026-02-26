@@ -28,6 +28,7 @@ Each BCP multilayer tag has a stochastic depth profile producing a unique spectr
 ## Document
 
 :page_facing_up: **[43-B_Stochastic_PUF_Formatted.docx](43-B_Stochastic_PUF_Formatted.docx)** — Full collaboration whitepaper
+:bookmark_tabs: **[43-B_Stochastic_PUF_Formatted.pdf](43-B_Stochastic_PUF_Formatted.pdf)** — PDF export
 
 ## Author
 
